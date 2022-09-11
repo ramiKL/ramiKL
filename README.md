@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramiKL
 - 👀 I’m interested in app development and cloud computing
-- 🌱 I’m currently learning c++ first year
+- 🌱 I’m currently learning second c++  year
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me via email ramiklaib95@gmail.com
 
