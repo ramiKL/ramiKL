@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @ramiKL
-- 👀 I’m interested in app development and cloud computing
-- 🌱 I’m currently learning second c++  year
-- 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me via email ramiklaib95@gmail.com
+🔐 Cybersecurity | 💻 Full-Stack Development | 🤖 AI & Automation
+
+Building things, breaking things (ethically), and finding smarter ways to solve problems.
+
+Interested in cybersecurity, web technologies, AI agents, and turning ideas into real-world projects.
+
+🎯 Always learning. Always building. Never settling.
+
+
 
 <!---
 ramiKL/ramiKL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
